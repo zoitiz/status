@@ -1,0 +1,47 @@
+[
+  {
+    "key": "purpur",
+    "name": "Purpur",
+    "url": "https://mcutils.com/api/server-jars/purpur"
+  },
+  {
+    "key": "pufferfish",
+    "name": "Pufferfish",
+    "url": "https://mcutils.com/api/server-jars/pufferfish"
+  },
+  {
+    "key": "paper",
+    "name": "Paper",
+    "url": "https://mcutils.com/api/server-jars/paper"
+  },
+  {
+    "key": "spigot",
+    "name": "Spigot",
+    "url": "https://mcutils.com/api/server-jars/spigot"
+  },
+  {
+    "key": "craftbukkit",
+    "name": "CraftBukkit",
+    "url": "https://mcutils.com/api/server-jars/craftbukkit"
+  },
+  {
+    "key": "vanilla",
+    "name": "Vanilla",
+    "url": "https://mcutils.com/api/server-jars/vanilla"
+  },
+  {
+    "key": "folia",
+    "name": "Folia",
+    "url": "https://mcutils.com/api/server-jars/folia"
+  },
+  {
+    "key": "velocity",
+    "name": "Velocity (Proxy)",
+    "url": "https://mcutils.com/api/server-jars/velocity"
+  },
+  {
+    "key": "waterfall",
+    "name": "Waterfall (Proxy)",
+    "url": "https://mcutils.com/api/server-jars/waterfall"
+  }
+]
