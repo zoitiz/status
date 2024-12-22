@@ -38,10 +38,5 @@
     "key": "velocity",
     "name": "Velocity (Proxy)",
     "url": "https://mcutils.com/api/server-jars/velocity"
-  },
-  {
-    "key": "waterfall",
-    "name": "Waterfall (Proxy)",
-    "url": "https://mcutils.com/api/server-jars/waterfall"
   }
 ]
